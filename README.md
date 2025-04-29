@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyakraka&label=Profile%20views&color=0e75b6&style=flat" alt="samyakraka" /> </p>
 
+- 👨‍💻 All of my projects are available at [samyakraka.vercel.app](https://samyakraka.vercel.app/)
+
+- 📫 How to reach me **rakasamyak@gmail.com**
+
 ### Blogs posts
+<!-- BLOG-POST-LIST:START -->
 <a href="https://medium.com/@rakasamyak/how-to-deploy-a-react-and-flask-app-on-vercel-7b354d13c7bc" target="blank">How to Deploy a React and Flask App on Vercel</a>
 <!-- BLOG-POST-LIST:END -->
 
